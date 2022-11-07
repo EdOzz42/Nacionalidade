@@ -4,17 +4,40 @@
 body {
     background-color: rgb(31, 91, 53);
     color: white;
-    margin: 35px;
+    margin: 45px;
     font-size: 20px; 
     font-family: 'Press Start 2P', sans-serif;
 }
 
-div.Resultado {
+.título {
+    background-color: rgb(219, 252, 111);
+    color: rgb(31, 91, 53);
+    font-size: 25px;
+    border-radius: 12px;
+    box-shadow: 8px 8px 15px black;
+    padding: 15px;
+}
+
+.content {
     margin-top: 25px;
+    padding: 25px;
+}
+
+.Resultado {
+    width: 340px;
+    height: 80px;
+    background-color: rgb(219, 252, 111);
+    color: rgb(31, 91, 53);
+    border-radius: 12px;
+    padding: 15px;
+    margin-top: 30px;
+    box-shadow: 6px 6px 15px  black;
+
 }
 
 .interatividade {
     font-size: 27px;
     font-family: 'Press Start 2P', sans-serif;
     border-radius: 8px;
+    box-shadow: 6px 6px 15px  black;
 }
