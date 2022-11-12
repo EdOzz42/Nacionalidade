@@ -16,11 +16,11 @@ function vereficar() {
 
 function entrar() {
     pres.style.height = "25.3px"
-    pres.style.width = "157.3px"
+    pres.style.width = "159.3px"
 
 }
 
 function saiu() {
-    pres.style.height = "23px"
-    pres.style.width = "143px"
+    pres.style.height = "20px"
+    pres.style.width = "152px"
 }

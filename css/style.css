@@ -54,11 +54,12 @@ main {
 }
 
 .interatividade {
-    font-size: 110%;
+    font-size: 125%;
     font-family: 'Press Start 2P', sans-serif;
     border-radius: 8px;
     box-shadow: 4px 4px 15px  black;
     max-width: 300px;
+    border: none;
 }
 
 #txt0 {
