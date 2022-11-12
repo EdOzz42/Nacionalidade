@@ -59,7 +59,7 @@ main {
     border-radius: 8px;
     box-shadow: 4px 4px 15px  black;
     max-width: 300px;
-    border: none;
+    border: 2.5px solid greenyellow;
 }
 
 #txt0 {
