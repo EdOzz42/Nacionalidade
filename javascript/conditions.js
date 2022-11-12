@@ -15,12 +15,12 @@ function vereficar() {
     } 
 
 function entrar() {
-    pres.style.height = "36px"
-    pres.style.width = "255px"
+    pres.style.height = "25.3px"
+    pres.style.width = "157.3px"
 
 }
 
 function saiu() {
-    pres.style.height = "33px"
-    pres.style.width = "232px"
+    pres.style.height = "23px"
+    pres.style.width = "143px"
 }
