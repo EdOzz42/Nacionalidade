@@ -20,7 +20,7 @@ main {
     0 0 140px 90px rgb(27, 118, 39); 
 
 
-    min-width: 320px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     
@@ -29,21 +29,21 @@ main {
 .título {
     background-color: rgb(219, 252, 111);
     color: rgb(31, 91, 53);
-    font-size: 70%;
+    font-size: 65%;
     border-radius: 10px;
     box-shadow: 4px 4px 15px black;
     padding: 15px;
 }
 
 .content {
-    font-size: 85%;
+    font-size: 75%;
     margin-top: 25px;
     padding: 25px;
 }
 
 .Resultado {
-    width: 340px;
-    height: 80px;
+    width: 90%;
+    height: 55%;
     background-color: rgb(219, 252, 111);
     color: rgb(31, 91, 53);
     border-radius: 10px;  
@@ -54,9 +54,9 @@ main {
 }
 
 .interatividade {
-    font-size: 135%;
+    font-size: 120%;
     font-family: 'Press Start 2P', sans-serif;
     border-radius: 8px;
     box-shadow: 4px 4px 15px  black;
-    max-width: 330px;
+    max-width: 300px;
 }
