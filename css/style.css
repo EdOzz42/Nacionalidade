@@ -6,12 +6,12 @@ body {
     color: white;
     font-size: 20px; 
     font-family: 'Press Start 2P', sans-serif;
-    border: 6px solid rgb(159, 234, 46);
-    border-radius: 15px;
+    border: 7px solid rgb(159, 234, 46);
+    border-radius: 16px;
     min-width: 280px;
     max-width: 1000px;   
     margin: auto;
-    margin-top: 80px;
+    margin-top: 55px;
     box-shadow:
     0 0 40px 20px rgb(15, 47, 3),  
     0 0 100px 60px rgb(35, 65, 46), 
@@ -54,8 +54,6 @@ h2 {
     font-family: 'Press Start 2P', sans-serif;
     border-radius: 8px;
     box-shadow: 4px 4px 15px  black;
-    max-width: 300px;
     border: 2.5px solid greenyellow;
-    min-width: 200px;
     max-width: 245px;
 }
