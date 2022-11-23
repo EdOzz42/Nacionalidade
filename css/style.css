@@ -2,70 +2,67 @@
 @import url('https://fonts.cdnfonts.com/css/press-start-2p');
 
 body {
-    background-color: rgb(31, 91, 53);
-    color: white;
-    font-size: 20px; 
+    background-color: rgb(8, 92, 39);
+    background-image: url(../images/flags.png);
+    background-size: contain;
+    background-position: center;
+    background-blend-mode: multiply;
     font-family: 'Press Start 2P', sans-serif;
-    border: 7px solid rgb(159, 234, 46);
     border-radius: 16px;
-    min-width: 280px;
-    max-width: 1000px;   
-    margin: auto;
-    margin-top: 55px;
-    box-shadow:
-    0 0 40px 20px rgb(15, 47, 3),  
-    0 0 100px 60px rgb(35, 65, 46), 
-    0 0 140px 100px rgb(28, 116, 40); 
+    margin: 0;
 }
 
 .título {
-    background-color: rgb(219, 252, 111);
+    background-color: rgb(199, 230, 99);
     color: rgb(31, 91, 53);
-    font-size: 45%;
-    border-radius: 10px;
-    padding: 15px;
+    text-align: center;
+    font-size: 10pt;
+    padding-top: 35px;
+    padding-bottom: 35px;
 }
 
 main {
     background-color: rgb(66, 143, 96);
     border-radius: 10px;
-    font-size: 65%;
-    margin-top: 15px;
-    padding: 25px;  
+    font-size: 12pt;
+    padding: 20px;
+    min-width: 280px;
+    max-width: 750px;   
+    margin: auto;
+    color: white; 
+    margin-top: 100px;
+    box-shadow: rgba(219, 252, 111, 0.32) 10px 8px 80px 40px;
+    border: 3px solid rgb(228, 255, 137);
 }
 
 h2 {
-    font-size: 110%;
+    font-size: 108%;
 }
 
 .Resultado {
-    width: 90%;
-    height: 55%;
-    background-color: rgb(219, 252, 111);
+    background-color: rgb(199, 230, 99);
     color: rgb(31, 91, 53);
     border-radius: 10px;  
-    padding: 15px;
+    padding: 20px;
     margin-top: 30px;
-    box-shadow: 4px 4px 15px  black;
 }
 
 .interatividade {
-    font-size: 125%;
     font-family: 'Press Start 2P', sans-serif;
     border-radius: 8px;
-    box-shadow: 4px 4px 15px  black;
-    border: 2.5px solid greenyellow;
-    max-width: 245px;
+    border: 3px solid greenyellow;
+    margin: 2px;
 }
 
 footer {
     text-align: center;
     font-size: 70%;
+    color: white;
 }
 
 a {
-    text-decoration: none;
     color: greenyellow;
-    border: 4px solid rgba(172, 255, 47, 0.213) ;
+    background-color: rgba(172, 255, 47, 0.250) ;
+    border: 4px solid rgba(172, 255, 47, 0.350) ;
     border-radius: 4px;
 }
